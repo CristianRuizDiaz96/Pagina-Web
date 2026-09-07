@@ -137,3 +137,11 @@ body {
   color: var(--color-texto-suave);
   font-size: 0.9rem;
 }
+.seccion .tarjeta + .tarjeta {
+  margin-top: 1rem;
+}
+
+.tarjeta h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
